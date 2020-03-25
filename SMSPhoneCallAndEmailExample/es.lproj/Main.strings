@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "Send Email"; ObjectID = "FXD-9O-2yg"; */
+"FXD-9O-2yg.normalTitle" = "Enviar correo electrónico";
+
+/* Class = "UITextField"; placeholder = "Enter Subject"; ObjectID = "JHH-Gm-pXs"; */
+"JHH-Gm-pXs.placeholder" = "Ingresar Asunto";
+
+/* Class = "UIButton"; normalTitle = "Phone Call"; ObjectID = "X5s-Pn-pHA"; */
+"X5s-Pn-pHA.normalTitle" = "Llamada telefónica";
+
+/* Class = "UIButton"; normalTitle = "Send SMS"; ObjectID = "c2t-rt-rhb"; */
+"c2t-rt-rhb.normalTitle" = "Enviar SMS";
+
+/* Class = "UITextField"; placeholder = "Enter Message"; ObjectID = "dZU-eP-25s"; */
+"dZU-eP-25s.placeholder" = "Ingresar mensaje";

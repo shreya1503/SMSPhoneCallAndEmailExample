@@ -1,0 +1,8 @@
+/* 
+  Localizable.strings
+  SMSPhoneCallAndEmailExample
+
+  Created by moxDroid on 2018-03-06.
+  Copyright © 2018 moxDroid. All rights reserved.
+*/
+"STR_SUBJECT" = "Hello, How are you?";
