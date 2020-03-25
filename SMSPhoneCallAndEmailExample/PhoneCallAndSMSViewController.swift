@@ -58,7 +58,7 @@ class PhoneCallAndSMSViewController: UIViewController, MFMessageComposeViewContr
     ///Make Phone Call - No delegates are used
     @IBAction func makePhoneCall(sender: UIButton)
     {
-        if let url = URL(string: "tel://+1123777777)"), UIApplication.shared.canOpenURL(url)
+        if let url = URL(string: "tel://+16487591525)"), UIApplication.shared.canOpenURL(url)
         {
             if #available(iOS 10, *)
             {
